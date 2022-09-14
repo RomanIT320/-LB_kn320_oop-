@@ -5,14 +5,14 @@
 ### Виконання роботи
 - Результати виконання завдання *1...N*;
     1. Тестова програма 1 працює і видає наступний результат (Roman start programming at 2022-09-14 13:26:14.078599)
-    2. Тестова програма 2 працює і видає наступний результат (Roman start programming at 2022-09-14 14:50:20.564329)
-    3. Після натискання ```Run All```
+    1. Тестова програма 2 працює і видає наступний результат (Roman start programming at 2022-09-14 14:50:20.564329)
+    1. Після натискання ```Run All```
 ---
 - вставлені рисунки; 
 
     1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program.png "test_program_1")
-    2. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program_2.png "test_program_2")
-    2. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_progam_3.png "test_program_3")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program_2.png "test_program_2")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_progam_3.png "test_program_3")
 
 
 - вставлений код / текстовий або числовий результат / інші результати:
