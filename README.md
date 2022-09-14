@@ -10,9 +10,9 @@
 ---
 - Рисунки виконаних робіт:
 
-    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program.png "test_program_1");
-    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program_2.png "test_program_2");
-    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_progam_3.png "test_program_3");
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program.png "test_program_1")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program_2.png "test_program_2")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_progam_3.png "test_program_3")
 
 
 - код який використовувся в ході роботи:
@@ -36,16 +36,34 @@ Roman start programming at 2022-09-14 13:26:14.078599
     ```
 - :question: Чи досягнуто мети роботи;
 
+    ```
     Так все програмне забезпечення встановив та ознайомився з ним;
+    ```
 - :question: Які нові знання отримано;
 
 - :question: Чи вдалось відповісти на всі питання задані в ході роботи;
 
-    ```text
-    так 
+    ```
+    Так 
     ```
 - :question: Чи вдалося виконати всі завдання;
+
+    ```
+    Так 
+    ```
 - :question: Чи виникли складності у виконанні завдання;
+
+    ```
+    Трудностей не виникло окрім того що я випадково підключив не той git 
+    ```
 - :question: Чи подобається такий формат здачі роботи (Feedback);
+
+    ```
+    Так, дуже зручно шкода що не всі викладачі підтримують таку ідею
+    ```
 - :question: Побажання для покращення (Suggestions);
+
+    ```
+    Все задовільняє))
+    ```
 ---
