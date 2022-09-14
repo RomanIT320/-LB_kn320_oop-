@@ -4,15 +4,15 @@
 ---
 ### Виконання роботи
 - Результати виконання завдання *1...N*;
-    1. Тестова програма працює 
-    ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program.png "test_program")
-    2. Програма вивела значення ... 
+    1. Тестова програма 1 працює і видає наступний результат (Roman start programming at 2022-09-14 13:26:14.078599)
+    2. Тестова програма 2 працює і видає наступний результат (Roman start programming at 2022-09-14 14:50:20.564329)
     3. Отримано наступні результати ...
     4. Навчились ...
-- вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
-> якщо графічних файлів багато то краще помістити їх у окрему папку, наприклад у мене це папка `pictures`. Уважно дивіться коли вставляєте URL - файл має бути представленим як `raw`. 
+---
+- вставлені рисунки; 
 
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program.png "test_program_1")
+    2. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program.png "test_program_2")
 
 
 - вставлений код / текстовий або числовий результат / інші результати:
