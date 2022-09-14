@@ -3,32 +3,34 @@
 ### Мета роботи: навчитися оформлювати звіт
 ---
 ### Виконання роботи
-- Результати виконання завдання *1...N*;
+- Результати виконання завдання 1..3 :
     1. Тестова програма 1 працює і видає наступний результат (Roman start programming at 2022-09-14 13:26:14.078599);
     2. Тестова програма 2 працює і видає наступний результат (Roman start programming at 2022-09-14 14:50:20.564329);
-    3. Після натискання ```Run All```;
+    3. Після натискання ```Run All``` текс в ```markdown``` став заголовком;
 ---
-- вставлені рисунки; 
+- Рисунки виконаних робіт:
 
     1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program.png "test_program_1");
     1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program_2.png "test_program_2");
     1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_progam_3.png "test_program_3");
 
 
-- вставлений код / текстовий або числовий результат / інші результати:
+- код який використовувся в ході роботи:
 ```python
-def simple_function_example():
-    pass
+from datetime import datetime
+name = "Roman"
+
+print(f"{name} start programming at {datetime.now()}")
 ```
 ```text
-<< SOME text HERE >>
+Roman start programming at 2022-09-14 13:26:14.078599
 ```
 
-- результати виконання індивідуального завдання (якщо такі є);
+- результати виконання індивідуального завдання:
 
 ### Висновок: 
-> у висновку потрібно відповісти на запитання:
 - :question: Що зроблено в роботі;
+    ```Встановлено програмне забезпечення для роботи з Python кодом```
 - :question: Чи досягнуто мети роботи;
 - :question: Які нові знання отримано;
 - :question: Чи вдалось відповісти на всі питання задані в ході роботи;
