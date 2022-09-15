@@ -15,22 +15,21 @@
 ---
 - Рисунки виконаних робіт:
 
-    <!-- 1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program.png "test_program_1") -->
-    1. 
+    <!-- 1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program.png "test_program_1") -->1. 
     ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_1.png " ")
-    1. 
+    2. 
     ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_2.png " ")
-    1. 
+    3. 
     ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_3.png " ")
-    1. 
+    4. 
     ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_4.png " ")
-    1. 
+    5. 
     ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_5.png " ")
-    1. 
+    6. 
     ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_6.png " ")
-    1. 
+    7. 
     ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_7.png " ")
-    1. 
+    8. 
     ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_8.png " ")
     
 
