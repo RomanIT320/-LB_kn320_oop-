@@ -17,13 +17,13 @@
 
     <!-- 1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/Test_program.png "test_program_1") -->
     1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_1.png " ")
-    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_2.pn " ")
-    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_3.pn " ")
-    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_4.pn " ")
-    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_5.pn " ")
-    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_6.pn " ")
-    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_7.pn " ")
-    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_8.pn " ")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_2.png " ")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_3.png " ")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_4.png " ")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_5.png " ")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_6.png " ")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_7.png " ")
+    1. ![alt text](https://raw.githubusercontent.com/RomanIT320/LB_kn320_oop/main/pictures/LB_3_8.png " ")
     
 
 
